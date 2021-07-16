@@ -40,5 +40,8 @@ echo "El doble de tu edad";
 
 break;
 
+default:
+    echo: "Valor por defecto";
+
 }
 ?>
